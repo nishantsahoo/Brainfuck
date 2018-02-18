@@ -1,0 +1,1 @@
+print("".join(["+"*ord(i)+".[-]"for i in raw_input()]))
